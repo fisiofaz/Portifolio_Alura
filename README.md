@@ -30,3 +30,7 @@ Foram utilizadas as seguintes tecnologias:
 - Git
 - VS Code
 ---
+
+## Projeto do Figama
+
+<a src= "https://www.figma.com/file/dRdkkewTSz9Xu1TXoQkW0u/Portfolio---Curso-1?type=design&node-id=0-1&mode=design&t=FgPMPQ8vZyZR3z39-0"> Projeto no Figma</a>
