@@ -15,7 +15,9 @@
 
 
 body {
-    background-color: var(--color-main);
+    background-image: url("./images/pngtree-laptop-that-looks-like-its-glowing-in-the-dark-picture-image_2743711.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;   
     color: var(--color-text-secondary);
     height: 100vh;
     margin: 10%;
@@ -68,8 +70,22 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.apresentacao__links__link:hover {
+    background-color: var(--color-button-text);
+    color: var(--color-button);
+    text-decoration: none;
+    transition: .5s  ease-in-out all;
+    border: 2px solid #22D4FD;
+}
+
 .image {
     width: 40rem;
     height: 80%;
     object-fit: cover;
+    border-radius: 1.6rem;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 2px solid #22D4FD;
+    box-shadow: 10px 8px 8px 10px var(--color-button);
 }
