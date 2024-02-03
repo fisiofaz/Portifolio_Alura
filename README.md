@@ -3,9 +3,16 @@
     <p>Portifólio Alura </p>
 </h1>
 
+## Origina
 <h1 align="center">
     <img src="https://github.com/fisiofaz/Portifolio_Alura/blob/main/images/Sem%20t%C3%ADtulo.png">
 </h1>
+
+## Minhas Alterações
+<h1 align="center">
+    <img src="https://github.com/fisiofaz/Portifolio_Alura/blob/main/images/minhas_altera%C3%A7%C3%B5es.png">
+</h1>
+
 
 ## Sobre
 
