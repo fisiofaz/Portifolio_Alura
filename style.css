@@ -9,7 +9,7 @@
     --color-main: #000;
     --color-text-primary: #22D4FD;
     --color-text-secondary: #F6F6F6;
-    --color-button-text: #000;
+    --color-button-text: #272727;
     --color-button: #22D4FD;
 }
 
@@ -54,16 +54,29 @@ body {
 
 .apresentacao__links{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-    gap: 2rem;
+    align-items: center;
+    gap: 3.2rem;
+}
+
+.apresentacao__links__subtitulo{
+    font-family:'Krona One', sans-serif;
+    font-weight: 400;
+    font-size: 2.4rem;
 }
 
 .apresentacao__links__link {
-    background-color:  var(--color-button);
-    width: 28rem;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    gap: 1.6rem; 
+    border: 2px solid var(--color-button);
+    width: 37.8rem;
     text-align: center;
-    border-radius: 1.6rem;
+    border-radius: .8rem;
     font-size: 2.4rem;
+    font-weight: 600;
     padding: 2.15rem 0;
     text-decoration: none;
     color: var(--color-button-text);
@@ -75,7 +88,6 @@ body {
     color: var(--color-button);
     text-decoration: none;
     transition: .5s  ease-in-out all;
-    border: 2px solid #22D4FD;
 }
 
 .image {
