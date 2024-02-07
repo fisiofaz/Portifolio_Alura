@@ -5,14 +5,21 @@
 
 ## Origina
 <h1 align="center">
-    <img src="https://github.com/fisiofaz/Portifolio_Alura/blob/main/images/Sem%20t%C3%ADtulo.png">
+    <img src="https://github.com/fisiofaz/Portifolio_Alura/blob/main/assets/images/Sem%20t%C3%ADtulo.png">
 </h1>
 
-## Minhas Alterações
+## Minhas Alterações e Projeto final
 <h1 align="center">
-    <img src="https://github.com/fisiofaz/Portifolio_Alura/blob/main/images/minhas_altera%C3%A7%C3%B5es.png">
+    <img src="https://github.com/fisiofaz/Portifolio_Alura/blob/main/assets/images/projeto%20final%201.png">
 </h1>
 
+<h1 align="center">
+    <img src="https://github.com/fisiofaz/Portifolio_Alura/blob/main/assets/images/projeto%20final%202.png">
+</h1>
+
+<h1 align="center">
+    <img src="https://github.com/fisiofaz/Portifolio_Alura/blob/main/assets/images/projeto%20final%203.png">
+</h1>
 
 ## Sobre
 
@@ -34,3 +41,7 @@ Foram utilizadas as seguintes tecnologias:
 ## Projeto do Figama
 
 <a href="https://www.figma.com/file/dRdkkewTSz9Xu1TXoQkW0u/Portfolio---Curso-1?type=design&node-id=0-1&mode=design&t=FgPMPQ8vZyZR3z39-0" target="_blank" rel="noopener noreferrer"> Projeto no Figma</a>
+
+## Projeto nas Nuvem
+
+<a href="https://portifoliofabiozatta.netlify.app/" target="_blank" rel="noopener noreferrer"> Projeto na Nuvem</a>
